@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+button {
+    outline: none;
+    border: none;
+    background: none;
+    color: #FFFBEF;
+    font-weight: 400;
+    font-family: 'Gotham Pro';
+}
+
+a{
+    text-decoration: none;
+    color: unset;
+    outline: none !important;
+}
+
+img {
+    user-select: none;
+    pointer-events: none;
+}
